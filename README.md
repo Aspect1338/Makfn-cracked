@@ -10,4 +10,4 @@ Mapper:     https://cdn.discordapp.com/attachments/919586705311424572/9203191898
 
 Cleaner:    https://cdn.discordapp.com/attachments/909167723332894782/919733580886847508/Cleaner.bat
 
-The rat in their loader : https://cdn.discordapp.com/attachments/881318848836567050/894671977317556264/pckiller.exe, https://www.virustotal.com/gui/file/5efc27efd96f250185d9cee235dd3be480c8d5a0c6a451062b51cd8c7aa86390
+The rat in their loader (dont run) : https://cdn.discordapp.com/attachments/881318848836567050/894671977317556264/pckiller.exe, https://www.virustotal.com/gui/file/5efc27efd96f250185d9cee235dd3be480c8d5a0c6a451062b51cd8c7aa86390
