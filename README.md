@@ -1,4 +1,4 @@
-# Makfn-cracked-fortnite-poofer
+# Makfn-cracked-fortnite-spoofer
 
 Makfn was once good cheat until smartboy took over he got skid devs known as (in year 1337#1337) me and some friends reversed their spoofer and found their drivers they use discord links, we also discovered a rat in their loader.
 
